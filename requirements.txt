@@ -1,0 +1,3 @@
+browser-use>=0.2.5
+langchain-google-genai
+python-dotenv
